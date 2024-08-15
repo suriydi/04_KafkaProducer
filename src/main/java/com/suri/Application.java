@@ -8,7 +8,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-		System.out.println("Welcome Spring Boot Setup Sucess");
+		System.out.println("Welcome Spring Boot Setup Sucesssssss");
 	}
 
 }

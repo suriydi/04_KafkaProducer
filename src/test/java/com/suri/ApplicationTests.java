@@ -1,4 +1,4 @@
-package com.suri.__SpringBootKafka;
+package com.suri;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
